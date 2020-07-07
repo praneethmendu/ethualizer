@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.4.12",
+    "electron": "^9.1.0",
     "web3" : "^0.20.0"
 	
   }
